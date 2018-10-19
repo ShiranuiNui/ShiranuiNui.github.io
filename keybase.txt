@@ -1,0 +1,53 @@
+https://keybase.io/shiranuisayaka
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shiranuisayaka.net
+  * I am shiranuisayaka (https://keybase.io/shiranuisayaka) on keybase.
+  * I have a public key ASCCq0v854sH4uVExh9MfbbwF570uycwBOtrrP1yvnqvhAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207b3550b306d03a9504cc68c798961e03ac81af683b13af559410b1f7b8f719230a",
+      "host": "keybase.io",
+      "kid": "012082ab4bfce78b07e2e544c61f4c7db6f0179ef4bb273004eb6bacfd72be7aaf840a",
+      "uid": "33291bd5289938b62993abac2766aa19",
+      "username": "shiranuisayaka"
+    },
+    "merkle_root": {
+      "ctime": 1539928731,
+      "hash": "1b7c4b741450a597b3b4184844a92bbe48b7084c7506ea7cc88433a084445adf68313f95a27e1e17547c654908f96da6627fef490729eadbd5e20d44520806ee",
+      "hash_meta": "14716ccf23e0140c31ab1e8e5e04d60644d3ce96f10069c987e0a6e1aa4e37a2",
+      "seqno": 3819059
+    },
+    "service": {
+      "entropy": "EBEBYV+7mzONK5KEFB62BUNL",
+      "hostname": "shiranuisayaka.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1539928738,
+  "expire_in": 504576000,
+  "prev": "8fa35e529481d8ce006e8dca012eaf2310772c08dcdb0d20b09a59ff29c97eef",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggqtL/OeLB+LlRMYfTH228Bee9LsnMATra6z9cr56r4QKp3BheWxvYWTESpcCIsQgj6NeUpSB2M4Abo3KAS6vIxB3LAjc2w0gsJpZ/ynJfu/EIOYTctkZkShbdAhhSF+czbZrdSBBEXC7/jDt6E4S+H7ZAgHCo3NpZ8RAmse9lYUVJoDsCPIBUyhPjaHM0wo9hqCuKE5usNtjk4E+Fkav6KIgSWM8H9U6Dj8lpdpmE/UoShw+YIAdKvXMBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO6MLaY0XvgVof48W1VtQOy9vnmrWtnODPtMeN2Bl+U0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shiranuisayaka
